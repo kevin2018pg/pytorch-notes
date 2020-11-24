@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). In the tutorial, most of the models were implemented with less than 30 lines of code. 
+This repository provides my notes code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). In my notes, most of the models were implemented with less than 30 lines of code. 
 
 
 
@@ -43,8 +43,8 @@ $ python main.py
 
 
 ## Dependencies
-* Python 3.5+
-* PyTorch 0.4.0+
+* [Python 3.5+](https://www.python.org/)
+* [PyTorch 0.4.0+](https://pytorch.org/)
 
 
 
