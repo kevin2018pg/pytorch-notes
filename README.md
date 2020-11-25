@@ -18,6 +18,7 @@ This repository provides my notes code for deep learning researchers to learn [P
 * Convolutional Neural Network
 * Deep Residual Network
 * Recurrent Neural Network
+* LSTM Network
 * Bidirectional Recurrent Neural Network
 * Language Model (RNN-LM)
 
