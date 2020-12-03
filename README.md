@@ -9,23 +9,23 @@ This repository provides my notes code for deep learning researchers to learn [P
 ## Table of Contents
 
 #### 1. Basics
-* PyTorch Basics
-* Linear Regression
-* Logistic Regression
-* Feedforward Neural Network
+* [PyTorch Basics](https://github.com/kevin2018pg/pytorch-notes/tree/master/01-basics/pytorch_basics)
+* [Linear Regression](https://github.com/kevin2018pg/pytorch-notes/tree/master/01-basics/linear_regression)
+* [Logistic Regression](https://github.com/kevin2018pg/pytorch-notes/tree/master/01-basics/logistic_regression)
+* [Feedforward Neural Network](https://github.com/kevin2018pg/pytorch-notes/tree/master/01-basics/feedforward_neural_network)
 
 #### 2. Intermediate
-* Convolutional Neural Network
-* Deep Residual Network
-* Recurrent Neural Network
-* Bidirectional Recurrent Neural Network
-* LSTM Network
-* Language Model (RNN-LM)
+* [Convolutional Neural Network](https://github.com/kevin2018pg/pytorch-notes/tree/master/02-intermediate/convolutional_neural_network)
+* [Deep Residual Network](https://github.com/kevin2018pg/pytorch-notes/tree/master/02-intermediate/deep_residual_network)
+* [Recurrent Neural Network](https://github.com/kevin2018pg/pytorch-notes/tree/master/02-intermediate/recurrent_neural_network)
+* [Bidirectional Recurrent Neural Network](https://github.com/kevin2018pg/pytorch-notes/tree/master/02-intermediate/bidirectional_recurrent_neural_network)
+* [LSTM Network](https://github.com/kevin2018pg/pytorch-notes/tree/master/02-intermediate/lstm_network)
+* [Language Model (RNN-LM)](https://github.com/kevin2018pg/pytorch-notes/tree/master/02-intermediate/language_model)
 
 #### 3. Advanced
-* Generative Adversarial Networks
-* Variational Auto-Encoder
-* Neural Style Transfer
+* [Generative Adversarial Networks](https://github.com/kevin2018pg/pytorch-notes/tree/master/03-advanced/generative_adversarial_network)
+* [Variational Auto-Encoder](https://github.com/kevin2018pg/pytorch-notes/tree/master/03-advanced/variational_autoencoder)
+* [Neural Style Transfer](https://github.com/kevin2018pg/pytorch-notes/tree/master/03-advanced/neural_style_transfer)
 * Image Captioning (CNN-RNN)
 
 #### 4. Utilities
