@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-This repository provides my notes code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). In my notes, most of the models were implemented with less than 30 lines of code. 
+This repository provides my notes code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). 
 
 
 
@@ -26,10 +26,10 @@ This repository provides my notes code for deep learning researchers to learn [P
 * [Generative Adversarial Networks](https://github.com/kevin2018pg/pytorch-notes/tree/master/03-advanced/generative_adversarial_network)
 * [Variational Auto-Encoder](https://github.com/kevin2018pg/pytorch-notes/tree/master/03-advanced/variational_autoencoder)
 * [Neural Style Transfer](https://github.com/kevin2018pg/pytorch-notes/tree/master/03-advanced/neural_style_transfer)
-* Image Captioning (CNN-RNN)
+* [Image Captioning (CNN-RNN)](https://github.com/kevin2018pg/pytorch-notes/tree/master/03-advanced/image_captioning)
 
 #### 4. Utilities
-* TensorBoard in PyTorch
+* [TensorBoard in PyTorch](https://github.com/kevin2018pg/pytorch-notes/tree/master/04-utils/tensorboard)
 
 
 
@@ -44,7 +44,7 @@ $ python main.py
 
 
 ## Dependencies
-* [Python 3.5+](https://www.python.org/)
+* [Python 3.6+](https://www.python.org/)
 * [PyTorch 0.4.0+](https://pytorch.org/)
 
 
